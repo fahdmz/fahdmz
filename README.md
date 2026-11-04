@@ -1,23 +1,23 @@
-<h1 align="center">hey, I'm fahdmz</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=I+make+games+for+fun;I+grind+LeetCode+(sometimes);CS+student+%40+ITB+Bandung" />
+  <img src="./assets/header.svg" width="100%" />
 </p>
 
-<h3 align="center">languages I like to use</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,ts,py,go&theme=dark" />
+  <img src="./assets/typing.svg" />
 </p>
 
-<h3 align="center">game dev stuff</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,unity,blender&theme=dark" />
+  <img src="./assets/languages.svg" />
 </p>
 
-<h3 align="center">tools & tech</h3>
+<p align="center">
+  <img src="./assets/gamedev.svg" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,vite,tailwind&theme=dark" />
+  <img src="./assets/tools.svg" />
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" />
 </p>
