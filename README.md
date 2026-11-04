@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">hey, I'm fahdmz </h1>
 
-<!--
-**fahdmz/fahdmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=I+make+games+for+fun;I+grind+LeetCode+(sometimes);CS+student+%40+ITB+Bandung" />
+</p>
 
-Here are some ideas to get you started:
+### languages I like to use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,ts,py,go&theme=dark" />
+</p>
+
+### game dev stuff
+
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,unity,blender&theme=dark" />
+</p>
+
+
+### tools & tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,react,vite,tailwind&theme=dark" />
+</p>
